@@ -1,0 +1,9 @@
+# OS files
+.DS_Store
+
+# Output
+bin
+dist
+
+# IDE
+.idea
